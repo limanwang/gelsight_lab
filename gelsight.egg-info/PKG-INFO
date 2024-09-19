@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: gelsight
+Version: 4.0
+Summary: A toolkit to interface with GelSight tactile sensors
+Author: gelsight
+Author-email: info@gelsight.com
+Requires-Python: >=3.8
+License-File: LICENSE
+Requires-Dist: numpy>=1.17.4
+Requires-Dist: open3d>=0.12.0
+Requires-Dist: Pillow>=9.5.0
+Requires-Dist: pygrabber>=0.1
+Requires-Dist: pyusb>=1.2.1
+Requires-Dist: scikit_image>=0.18.3
+Requires-Dist: scipy>=1.10.1
+Requires-Dist: setuptools>=45.2.0
+Requires-Dist: torch>=1.11.0

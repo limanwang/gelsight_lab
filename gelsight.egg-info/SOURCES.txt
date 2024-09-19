@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+gelsight/__init__.py
+gelsight/gs3drecon.py
+gelsight/gsdevice.py
+gelsight.egg-info/PKG-INFO
+gelsight.egg-info/SOURCES.txt
+gelsight.egg-info/dependency_links.txt
+gelsight.egg-info/requires.txt
+gelsight.egg-info/top_level.txt
