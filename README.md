@@ -17,12 +17,12 @@ run `../demos/mini_tracking_linux_V0/tracking_answers.py`
 To calculate how much a point on the image moves in real-world terms when it shifts by 10 pixels, we need to understand the relationship between the image's pixel dimensions and the real-world dimensions (Field of View).
 
 ### Given GelSight Mini Specifications:
-
 - **Image Width (imgw):** 320 pixels
 - **Image Height (imgh):** 240 pixels
 - **Field of View (FOV):** 18.6 mm (Horizontal) x 14.3 mm (Vertical)
 - **Movement:** 10 pixels
 
+For other specifications, refer to the [GelSight Mini Product Sheet](https://www.gelsight.com/wp-content/uploads/productsheet/Mini/GS_Mini_4.3.24.pdf).
 ### Steps:
 
 1. **Calculate the real-world size of one pixel:**
