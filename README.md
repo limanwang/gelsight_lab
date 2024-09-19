@@ -12,11 +12,11 @@ run `../demos/mini_tracking_linux_V0/tracking_answers.py`
 ![](demo1.png)
 
 
-## Calculating Real-World Displacement from Gelsight Image Movement
+## Calculating Real-World Displacement from GelSight Image Movement
 
 To calculate how much a point on the image moves in real-world terms when it shifts by 10 pixels, we need to understand the relationship between the image's pixel dimensions and the real-world dimensions (Field of View).
 
-### Given:
+### Given GelSight Mini Specifications:
 
 - **Image Width (imgw):** 320 pixels
 - **Image Height (imgh):** 240 pixels
