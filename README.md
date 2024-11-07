@@ -1,6 +1,6 @@
 # Solution for the gelsight_lab assignment
 
-Just run `../demos/mini_tracking_linux_V0/tracking_answers.py`
+Just run `./examples/new_tracking_solution.py`
 
 ### Shear force visualization
 ![](demos/mini_tracking_linux_V0/results/shear_flow.gif)
